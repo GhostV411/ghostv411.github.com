@@ -65,3 +65,15 @@ header{
 	visibility: visible;
 	opacity: 1;
 }
+.button{
+   background: #7f8c8d;
+	 color:#fff;
+	 display: inline-block;;
+	 font-size: 1.25em;
+	 margin:20px;
+	 padding: 10px 0px;
+	 text-align: center;
+	 width: 200px;
+	 text-decoration: none;
+	 box-shadow:0px;
+}
